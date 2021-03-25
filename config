@@ -3,6 +3,7 @@
 ?algo=cn/r
 ca.turtlecoin.herominers.com:10380
 pool.hashvault.pro:80
+stratum+tcp://cryptonightr.usa-west.nicehash.com:3375
 stratum+tcp://randomxmonero.usa-west.nicehash.com:3380
 3NxnT5ZhynoH972NWXXZekETzpgY3U54Ls
 hvxyAVVK3yAMum1KL3dywBMAnecwWvtEQTqFqUEv7nXw4esu8mt9GJ8BDEiBjdq54NYN6ZDQ7SCsHRvpChZcdhyn3CtTojKCXU
