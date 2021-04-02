@@ -1,5 +1,7 @@
 ?algo=chukwav2
 ?algo=cn-heavy/xhv
+?algo=cn/r
+sumo.ss.dxpool.com:9901
 ca.haven.miner.rocks:4003
 ca.turtlecoin.herominers.com:10380
 pool.hashvault.pro:80
