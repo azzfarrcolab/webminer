@@ -2,3 +2,5 @@
 title CryptoNightHaven (XHV) - herominers pool
 CryptoDredge --url singapore01.hashvault.pro:80 --user hvxyAVVK3yAMum1KL3dywBMAnecwWvtEQTqFqUEv7nXw4esu8mt9GJ8BDEiBjdq54NYN6ZDQ7SCsHRvpChZcdhyn3CtTojKCXU --pass w=home --algo cnhaven
 pause
+
+authtoken 1qw8wGEgVuawpkCfrAOTW4Egcve_4z3SkTTxcD4XDWXnA5fD3
