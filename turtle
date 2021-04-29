@@ -1,0 +1,4 @@
+@echo off
+title Chukwa-v2 (TRTL) - herominers pool
+CryptoDredge --url sg.turtlecoin.herominers.com:10380 --user TRTLv2nLcf52K988Qnwhno36XNZwyhcRhN38mze9itNEf6BCTWDGebHGBnoW8RzkzLXryvgHSJdMbSEVUZnS7AuGhtxwea7vsX7 --pass home --algo chukwa2
+pause
