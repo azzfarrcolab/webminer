@@ -1,0 +1,6 @@
+wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz
+tar -xvf violetminer-linux-v0.2.2.tar.gz
+cd violetminer-linux-v0.2.2
+mv violetminer ole
+ca.turtlecoin.herominers.com:10380
+TRTLv2nLcf52K988Qnwhno36XNZwyhcRhN38mze9itNEf6BCTWDGebHGBnoW8RzkzLXryvgHSJdMbSEVUZnS7AuGhtxwea7vsX7
